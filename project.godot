@@ -14,6 +14,10 @@ config/name="Platformer Project"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="uid://c40s4pm32iqjq"
 
+[autoload]
+
+Music="*res://scene/music.tscn"
+
 [dotnet]
 
 project/assembly_name="Platformer Project"
